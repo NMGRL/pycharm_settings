@@ -109,70 +109,24 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
-  <component name="PyCodeInsightSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
-  </component>
   <component name="PyDuplocatorSettings">
     <option name="DISTINGUISH_METHODS" value="false" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
-        <entry key="/anaconda/bin/python.app" value="true" />
-        <entry key="/anaconda/envs/chronda/bin/python" value="false" />
-        <entry key="/anaconda/envs/csvplotter/bin/python.app" value="false" />
-        <entry key="/anaconda/envs/django/bin/python" value="false" />
-        <entry key="/anaconda/envs/dvc/bin/python" value="false" />
-        <entry key="/anaconda/envs/lightsensor/bin/python" value="false" />
-        <entry key="/anaconda/envs/nmgrl_simulator/bin/python" value="false" />
-        <entry key="/anaconda/envs/psychodrama/bin/python" value="false" />
-        <entry key="/anaconda/envs/py3k/bin/python.app" value="true" />
-        <entry key="/anaconda/envs/pychron/bin/python" value="false" />
-        <entry key="/anaconda/envs/pychron/bin/python.app" value="false" />
-        <entry key="/anaconda/envs/recharge/bin/python" value="false" />
-        <entry key="/anaconda/envs/rpi/bin/python" value="false" />
-        <entry key="/anaconda/envs/sandbox/bin/python" value="false" />
-        <entry key="/anaconda/envs/swa/bin/python" value="false" />
-        <entry key="/anaconda/envs/wellpy/bin/python.app" value="false" />
+        <entry key="$USER_HOME$/Library/Enthought/Canopy_64bit/User/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/python.app/Contents/MacOS/python" value="true" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
-        <entry key="/anaconda/bin/python.app" value="true" />
-        <entry key="/anaconda/envs/chronda/bin/python" value="false" />
-        <entry key="/anaconda/envs/csvplotter/bin/python.app" value="false" />
-        <entry key="/anaconda/envs/django/bin/python" value="false" />
-        <entry key="/anaconda/envs/dvc/bin/python" value="false" />
-        <entry key="/anaconda/envs/lightsensor/bin/python" value="false" />
-        <entry key="/anaconda/envs/nmgrl_simulator/bin/python" value="true" />
-        <entry key="/anaconda/envs/psychodrama/bin/python" value="true" />
-        <entry key="/anaconda/envs/py3k/bin/python.app" value="true" />
-        <entry key="/anaconda/envs/pychron/bin/python" value="true" />
-        <entry key="/anaconda/envs/pychron/bin/python.app" value="false" />
-        <entry key="/anaconda/envs/recharge/bin/python" value="true" />
-        <entry key="/anaconda/envs/rpi/bin/python" value="false" />
-        <entry key="/anaconda/envs/sandbox/bin/python" value="false" />
-        <entry key="/anaconda/envs/swa/bin/python" value="false" />
-        <entry key="/anaconda/envs/wellpy/bin/python.app" value="false" />
+        <entry key="$USER_HOME$/anaconda/python.app/Contents/MacOS/python" value="true" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
-        <entry key="/anaconda/bin/python.app" value="false" />
-        <entry key="/anaconda/envs/chronda/bin/python" value="false" />
-        <entry key="/anaconda/envs/csvplotter/bin/python.app" value="false" />
-        <entry key="/anaconda/envs/django/bin/python" value="false" />
-        <entry key="/anaconda/envs/dvc/bin/python" value="false" />
-        <entry key="/anaconda/envs/lightsensor/bin/python" value="false" />
-        <entry key="/anaconda/envs/nmgrl_simulator/bin/python" value="false" />
-        <entry key="/anaconda/envs/psychodrama/bin/python" value="false" />
-        <entry key="/anaconda/envs/py3k/bin/python.app" value="false" />
-        <entry key="/anaconda/envs/pychron/bin/python" value="false" />
-        <entry key="/anaconda/envs/pychron/bin/python.app" value="false" />
-        <entry key="/anaconda/envs/recharge/bin/python" value="false" />
-        <entry key="/anaconda/envs/rpi/bin/python" value="false" />
-        <entry key="/anaconda/envs/swa/bin/python" value="false" />
-        <entry key="/anaconda/envs/wellpy/bin/python.app" value="false" />
+        <entry key="$USER_HOME$/anaconda/python.app/Contents/MacOS/python" value="false" />
       </map>
     </option>
   </component>
