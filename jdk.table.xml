@@ -1,0 +1,429 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.3.5 (/anaconda/envs/py3k/bin/python.app)" />
+      <type value="Python SDK" />
+      <version value="Python 3.3.5" />
+      <homePath value="/anaconda/envs/py3k/bin/python.app" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/py3k/lib/python3.3" />
+            <root type="simple" url="file:///anaconda/envs/py3k/lib/python3.3/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/py3k/lib/python3.3/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/py3k/lib/python3.3/site-packages" />
+            <root type="simple" url="file:///anaconda/envs/py3k/lib/python3.3/site-packages/Sphinx-1.2.3-py3.3.egg" />
+            <root type="simple" url="jar:///anaconda/envs/py3k/lib/python3.3/site-packages/runipy-0.1.1-py3.3.egg!/" />
+            <root type="simple" url="jar:///anaconda/envs/py3k/lib/python3.3/site-packages/setuptools-18.0.1-py3.3.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-859645391" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (/anaconda/envs/django/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="/anaconda/envs/django/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/django/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/django/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/django/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/django/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/django/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/django/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/django/lib/python2.7/site-packages" />
+            <root type="simple" url="jar:///anaconda/envs/django/lib/python2.7/site-packages/setuptools-19.4-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/922437060" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (/anaconda/envs/sandbox/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="/anaconda/envs/sandbox/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/sandbox/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/sandbox/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/sandbox/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/sandbox/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/sandbox/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/sandbox/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/sandbox/lib/python2.7/site-packages" />
+            <root type="simple" url="jar:///anaconda/envs/sandbox/lib/python2.7/site-packages/setuptools-20.7.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-416838400" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (/anaconda/envs/flask/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="/anaconda/envs/flask/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/flask/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/flask/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/flask/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/flask/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/flask/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/flask/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/flask/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///anaconda/envs/flask/lib/python2.7/site-packages/gunicorn-19.1.0-py2.7.egg" />
+            <root type="simple" url="jar:///anaconda/envs/flask/lib/python2.7/site-packages/setuptools-19.6.2-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/136613204" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (/anaconda/envs/psychodrama/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="/anaconda/envs/psychodrama/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/psychodrama/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/psychodrama/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/psychodrama/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/psychodrama/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/psychodrama/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/psychodrama/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/psychodrama/lib/python2.7/site-packages" />
+            <root type="simple" url="jar:///anaconda/envs/psychodrama/lib/python2.7/site-packages/setuptools-19.6.2-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1415541108" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (/anaconda/envs/dvc/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="/anaconda/envs/dvc/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/dvc/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/dvc/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/dvc/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/dvc/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/dvc/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/dvc/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/dvc/lib/python2.7/site-packages" />
+            <root type="simple" url="jar:///anaconda/envs/dvc/lib/python2.7/site-packages/setuptools-20.7.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-779272842" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (/anaconda/envs/lightsensor/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="/anaconda/envs/lightsensor/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/lightsensor/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/lightsensor/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/lightsensor/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/lightsensor/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/lightsensor/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/lightsensor/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/lightsensor/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///anaconda/envs/lightsensor/lib/python2.7/site-packages/PIL" />
+            <root type="simple" url="jar:///anaconda/envs/lightsensor/lib/python2.7/site-packages/setuptools-21.2.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1404157481" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (/anaconda/envs/recharge/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="/anaconda/envs/recharge/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/recharge/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/recharge/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/recharge/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/recharge/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/recharge/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/recharge/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/recharge/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///anaconda/envs/recharge/lib/python2.7/site-packages/Sphinx-1.4.1-py2.7.egg" />
+            <root type="simple" url="jar:///anaconda/envs/recharge/lib/python2.7/site-packages/setuptools-22.0.5-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1004724216" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 (/anaconda/bin/python.app)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/anaconda/bin/python.app" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///anaconda/lib/python2.7/site-packages/pypcap-1.1.1-py2.7-macosx-10.5-x86_64.egg!/" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/site-packages/multiprocess-0.70.5.dev0-py2.7.egg" />
+            <root type="simple" url="file:///anaconda/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/site-packages/PIL" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/site-packages/Sphinx-1.4.1-py2.7.egg" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/site-packages/aeosa" />
+            <root type="simple" url="file:///anaconda/lib/python2.7/site-packages/gunicorn-19.1.0-py2.7.egg" />
+            <root type="simple" url="jar:///anaconda/lib/python2.7/site-packages/setuptools-17.1.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-602095252" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 (/anaconda/envs/swa/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/anaconda/envs/swa/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/swa/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/swa/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/swa/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/swa/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/swa/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/swa/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/swa/lib/python2.7/site-packages" />
+            <root type="simple" url="jar:///anaconda/envs/swa/lib/python2.7/site-packages/setuptools-26.1.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-324286070" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Programming/github/SWACodingMeeting" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 (/anaconda/envs/chronda/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/anaconda/envs/chronda/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/chronda/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/chronda/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/chronda/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/chronda/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/chronda/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/chronda/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/chronda/lib/python2.7/site-packages" />
+            <root type="simple" url="jar:///anaconda/envs/chronda/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-617491010" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Programming/github/chronda" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 (/anaconda/envs/rpi/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/anaconda/envs/rpi/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/rpi/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/rpi/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/rpi/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/rpi/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/rpi/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/rpi/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/rpi/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///anaconda/envs/rpi/lib/python2.7/site-packages/requests-2.12.2-py2.7.egg" />
+            <root type="simple" url="jar:///anaconda/envs/rpi/lib/python2.7/site-packages/PyYAML-3.12-py2.7-macosx-10.6-x86_64.egg!/" />
+            <root type="simple" url="jar:///anaconda/envs/rpi/lib/python2.7/site-packages/RPiWeather-0.0.1-py2.7.egg!/" />
+            <root type="simple" url="jar:///anaconda/envs/rpi/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-1027211940" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (/anaconda/envs/csvplotter/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/anaconda/envs/csvplotter/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/site-packages/PIL" />
+            <root type="simple" url="jar:///anaconda/envs/csvplotter/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-699887899" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Programming/github/CSVPlotter" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 (/anaconda/envs/csvplotter/bin/python.app)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/anaconda/envs/csvplotter/bin/python.app" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///anaconda/envs/csvplotter/lib/python2.7/site-packages/PIL" />
+            <root type="simple" url="jar:///anaconda/envs/csvplotter/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/1342371736" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 (/anaconda/envs/wellpy/bin/python.app)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="/anaconda/envs/wellpy/bin/python.app" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///anaconda/envs/wellpy/lib/python2.7" />
+            <root type="simple" url="file:///anaconda/envs/wellpy/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///anaconda/envs/wellpy/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///anaconda/envs/wellpy/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///anaconda/envs/wellpy/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///anaconda/envs/wellpy/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///anaconda/envs/wellpy/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///anaconda/envs/wellpy/lib/python2.7/site-packages/PIL" />
+            <root type="simple" url="jar:///anaconda/envs/wellpy/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1958483835" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
