@@ -117,16 +117,19 @@
       <map>
         <entry key="$USER_HOME$/Library/Enthought/Canopy_64bit/User/bin/python" value="false" />
         <entry key="$USER_HOME$/anaconda/python.app/Contents/MacOS/python" value="true" />
+        <entry key="$USER_HOME$/miniconda2/envs/pychron/bin/python.app" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/anaconda/python.app/Contents/MacOS/python" value="true" />
+        <entry key="$USER_HOME$/miniconda2/envs/pychron/bin/python.app" value="true" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/anaconda/python.app/Contents/MacOS/python" value="false" />
+        <entry key="$USER_HOME$/miniconda2/envs/pychron/bin/python.app" value="false" />
       </map>
     </option>
   </component>
