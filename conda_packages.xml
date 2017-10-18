@@ -130,7 +130,7 @@
         <entry key="cssselect" value="1.0.1" />
         <entry key="csvkit" value="0.9.1" />
         <entry key="cubes" value="1.1" />
-        <entry key="cudatoolkit" value="7.5" />
+        <entry key="cudatoolkit" value="8.0" />
         <entry key="cudnn" value="6.0" />
         <entry key="curl" value="7.54.1" />
         <entry key="cvxcanon" value="0.0.23.3" />
@@ -2447,6 +2447,7 @@
               <option value="7.0" />
               <option value="6.0" />
               <option value="5.5.1" />
+              <option value="8.0" />
             </list>
           </value>
         </entry>
@@ -8800,6 +8801,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1506975940899" />
+    <option name="LAST_TIME_CHECKED" value="1508362671927" />
   </component>
 </application>
