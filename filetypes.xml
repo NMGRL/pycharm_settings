@@ -4,17 +4,18 @@
     <extensionMap>
       <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern="database_migrate" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="pip_requirements" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="activate_ion_counter" type="PLAIN_TEXT" />
       <mapping pattern="outline" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="nice" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="neu" type="PLAIN_TEXT" />
+      <mapping ext="f" type="PLAIN_TEXT" />
       <mapping pattern=".readthedocs.ymll" type="YAML" />
     </extensionMap>
   </component>
