@@ -7,6 +7,7 @@
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="pip_requirements" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="identifier_generator" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="activate_ion_counter" type="PLAIN_TEXT" />
       <mapping pattern="outline" type="PLAIN_TEXT" />
